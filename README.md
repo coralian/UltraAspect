@@ -85,3 +85,10 @@ https://vulkk.com/2021/06/27/how-to-fix-witcher-3-ultrawide-cutscenes-no-black-b
 
 https://steamcommunity.com/app/1237320/discussions/0/3494258076750408802/
 
+## Screenshots
+Default (16:9) vs 32:9 at 5120x1440 
+<img src="ScreenShots/5120x1440_16-9.png">
+<img src="ScreenShots/5120x1440_32-9_1.png">
+
+<img src="ScreenShots/5120x1440_16-9_2.png">
+<img src="ScreenShots/5120x1440_32-9_2.png">
