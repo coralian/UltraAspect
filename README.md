@@ -1,5 +1,14 @@
 # UltraAspect
-# Powershell module for Modifying Game files to support (Super) UltraWide aspect ratios 
+# Powershell module for Modifying Game files to support (Super) UltraWide aspect ratios and more
+
+## Supported Aspect ratios:
+- 16:9 (1920x1080
+- 21:9 (2560x1080 / 5120x2160)
+- 21:9 (3440x1440 / 6880x2880)
+- 21:9 (3840x1600)
+- 32:9 (5120x1440)
+- 16:10
+- 32:10
 
 Written in powershell core, supports running natively on windows or Unix with Powershell core installed
 
