@@ -14,11 +14,12 @@ Written in Powershell core V7 and Go, supports running natively on windows or Un
 
 ## Requirements:
 
-- Powershell Core V7
-- Windows (Currently)
-- Unix (Coming soon)
+- Powershell Core V7: https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.3
+- Windows 10+ (Unix Coming soon)
 
 ## Installing:
+
+Does not require additinal install outside of having powershell core 
 
 Utility scripts are provided for using the module, but if you would like to install in your own project:
 
@@ -51,6 +52,9 @@ cd UltraAspect
 ```
 .\UltraAspect.ps1 -FilePath "G:\SteamLibrary\steamapps\common\SonicFrontiers\SonicFrontiers.exe"
 ```
+
+Default usage with no flags (other than file path), the resolution of the primary monoitor is detected, and an aspect ratio is suggested to the user. If the suggested value is not correct or desired, the user can then manually specify a resolution to get the desired aspect ratio
+
 
 ## Why:
 
