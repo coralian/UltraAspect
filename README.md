@@ -68,6 +68,8 @@ I have personally only tested with Witcher 3 (V4.0) And Sonic Frontiers, which s
 
 https://en.wikipedia.org/wiki/Ultrawide_formats
 
+https://www.wsgf.org/article/common-hex-values
+
 https://vulkk.com/2021/06/27/how-to-fix-witcher-3-ultrawide-cutscenes-no-black-bars/
 
 https://steamcommunity.com/app/1237320/discussions/0/3494258076750408802/
