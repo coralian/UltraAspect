@@ -10,11 +10,13 @@
 - 16:10
 - 32:10
 
-Written in powershell core, supports running natively on windows or Unix with Powershell core installed
+Written in Powershell core V7 and Go, supports running natively on windows or Unix with Powershell core installed
 
 ## Requirements:
 
-- Powershell Core
+- Powershell Core V7
+- Windows (Currently)
+- Unix (Coming soon)
 
 ## Installing:
 
