@@ -79,8 +79,8 @@ Go - Raw file byte changes, no backup
 
 I have personally only tested with Witcher 3 (V4.0) And Sonic Frontiers, which use common values.
 
-Downloads
----------
+## Downloads
+
 [![Github All Releases](https://img.shields.io/github/downloads/coralian/UltraAspect/total.svg)]()
    
 ## Reference links:
