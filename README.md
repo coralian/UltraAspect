@@ -1,5 +1,8 @@
 # UltraAspect
-# Powershell module for Modifying Game files to support (Super) UltraWide aspect ratios and more
+
+About
+-----
+UltraAspect is a Powershell module and Go binary for modifying game executables to support (Super)Ultra(Wide) Aspect(Ratios) and more
 
 ## Supported Aspect ratios:
 - 16:9 (1920x1080)
@@ -75,6 +78,11 @@ Go - Raw file byte changes, no backup
 ```
 
 I have personally only tested with Witcher 3 (V4.0) And Sonic Frontiers, which use common values.
+
+## Downloads
+
+[![Github All Releases](https://img.shields.io/github/downloads/coralian/UltraAspect/total.svg)]()
+   
 ## Reference links:
 
 https://en.wikipedia.org/wiki/Ultrawide_formats
